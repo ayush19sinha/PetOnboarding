@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PetOnboarding</string>
+    <string name="title1">Find pet care around your location</string>
+    <string name="title2">Let us give the best treatment</string>
+    <string name="title3">Book appointment with us</string>
+    <string name="desc1">Just turn on your location and you will find the nearest pet care you wish</string>
+    <string name="desc2">Get the best treatment for your animal with us</string>
+    <string name="desc3">What do you think? book our veterinarians now</string>
+</resources>
